@@ -1,0 +1,67 @@
+/* Add this to your style.css file */
+
+.nav-links ul {
+    background-color: #333; /* Choose a suitable background color */
+}
+
+.nav-links ul li {
+    display: inline-block;
+    margin: 0 15px;
+    padding: 10px;
+}
+
+.nav-links ul li a {
+    text-decoration: none;
+    color: #fff; /* Choose a suitable text color */
+}
+
+.nav-links ul li a:hover {
+    color: #ffd700; /* Choose a suitable hover color */
+}
+/* Add this to your style.css file */
+
+.header {
+    background: url('path/to/your/image.jpg') center/cover; /* Replace with your image path */
+    color: #fff; /* Choose a suitable text color */
+    text-align: center;
+    padding: 100px 0;
+}
+
+.text-box h1 {
+    font-family: 'Poppins', sans-serif; /* Use the Google Font you imported */
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.text-box p {
+    font-size: 1.2em;
+}
+/* Add this to your style.css file */
+
+.course11 {
+    background-color: #f5f5f5; /* Choose a suitable background color */
+    padding: 50px 0;
+}
+
+.course11 h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #333; /* Choose a suitable text color */
+}
+
+.course11-col {
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ccc; /* Choose a suitable border color */
+    border-radius: 10px;
+}
+
+.course11-col h3 {
+    color: #333; /* Choose a suitable text color */
+}
+
+.course11-col p {
+    font-size: 1em;
+    color: #666; /* Choose a suitable text color */
+}
